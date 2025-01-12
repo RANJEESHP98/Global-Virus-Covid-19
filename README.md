@@ -1,12 +1,6 @@
 # Global Virus Covid19
 
 
-1. Data Cleaning and Organizing
-2. Removes Blank rows and Coloums
-3. Creating overview about the report
-4. Using Map analyzing in which country most population
-5. Using cards prepared the summery of population,Death,Recovery,cases.
-6. Buttons has been mentiond for page navigation
-7. Bookmarks used for which continent has highest cases.
-8. Drill down used in pie-chart for death/ new cases analysing the data of country/regions.
-9. Slicer used of analyzing data of country.
+1. Dataset Selection and Importation - Select and import Dataset into power BI analysis, data modeling and techniques used for visualization.
+2. Data cleaning and preprocessing  - Cleaned data for ensure data consistency, accuracy  and building quality using Power Query.
+3. Creative dashbord and reports - Developing a professional dashbord with more than 7 visuals showing the trends and insights.
